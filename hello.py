@@ -1,5 +1,5 @@
 print("Hello Andrey")
 print('jajaj')
 print('Boaoaoao')
-mame = input('Input your name: ')
+name = input('Input your name: ')
 print(f'Your name is {name}')
